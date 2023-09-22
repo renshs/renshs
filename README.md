@@ -11,7 +11,7 @@
 ---
 
 ### :man_technologist: About Me :
-My name is Garaev Kamil and I'm a second-year student of MIPT at the Department of Cyber Security. 
+My name is Garaev Kamil and I'm a third-year student of MIPT at the Department of Cyber Security. 
 
 
 At the moment, together with the team, we participated in the following hackathons:
