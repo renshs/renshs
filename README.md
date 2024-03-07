@@ -27,9 +27,7 @@ At the moment, together with the team, we participated in the following hackatho
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/renshs)
 [![SQL](https://img.shields.io/badge/sql-yellow?style=for-the-badge&logo=mysql)](https://github.com/renshs)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/renshs)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/renshs)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/renshs)
-[![ASSEMBLY](https://img.shields.io/badge/asm-red?style=for-the-badge&logo=asm)](https://github.com/renshs)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/renshs)
 
 ### ML/DL
